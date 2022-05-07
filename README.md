@@ -1,6 +1,6 @@
 ### Hi there, I'm Morgan 👋
 
-I'm a data analyst with a passion for healthcare and policy data. I've worked in healthcare for the last several years and am excited to bring the insights I gained there to the world of data analytics.
+I'm a data analyst with a passion for healthcare and policy data. I've worked in clinical healthcare for the last several years and am excited to bring the insights I gained there to the world of data analytics.
 
 - 🔭 I’m currently working on expanding my project portfolio to land my first full time data job! 
 - 🌱 I’m currently learning Python packages like numpy and pandas

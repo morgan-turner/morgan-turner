@@ -6,8 +6,6 @@ I'm a data analyst with a passion for healthcare and policy data. I've worked in
 - 🌱 I’m currently learning Python packages like numpy and pandas
 - 👯 I’m looking to collaborate on interesting data projects
 - 📫 Let's connect! Give me a shout on [LinkedIn](www.linkedin.com/in/morganturner1)
-- 🎨 Check out my work on [Tableau] (https://public.tableau.com/app/profile/morgan5895)
-- 💁🏽‍♀️ Pronouns: she/her
 - 🚀 Fun fact: I love space! I follow every NASA launch and discovery 'cause I think they're so cool. In another life I'd have been an astronaut! 
 
 <!--

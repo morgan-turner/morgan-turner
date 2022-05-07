@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Morgan 👋
+
+I'm a data analyst with a passion for healthcare and policy data. I've worked in healthcare for the last several years and am excited to bring the insights I gained there to the world of data analytics.
+
+- 🔭 I’m currently working on expanding my project portfolio to land my first full time data job! 
+- 🌱 I’m currently learning Python packages like numpy and pandas
+- 👯 I’m looking to collaborate on interesting data projects
+- 📫 Let's connect! Give me a shout on [LinkedIn](www.linkedin.com/in/morganturner1)
+- 🎨 Check out my work on [Tableau] (https://public.tableau.com/app/profile/morgan5895)
+- 💁🏽‍♀️ Pronouns: she/her
+- 🚀 Fun fact: I love space! I follow every NASA launch and discovery 'cause I think they're so cool. In another life I'd have been an astronaut! 
 
 <!--
 **morgan-turner/morgan-turner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

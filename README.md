@@ -6,7 +6,7 @@ I'm a data analyst with a passion for healthcare and policy data. I've worked in
 - 🌱 I’m currently learning Python packages like numpy and pandas
 - 👯 I’m looking to collaborate on interesting data projects
 - 🎨 I do data viz too! Check out my [Tableau portfolio](https://public.tableau.com/app/profile/morgan5895)
-- 📫 Let's connect! Give me a shout on [LinkedIn](https://www.linkedin.com/in/morganturner1/)
+- 📫 Want to connect? Give me a shout on [LinkedIn](https://www.linkedin.com/in/morganturner1/)
 - 🚀 Fun fact: I love space! Ask me about black holes 🤓 
 
 <!--

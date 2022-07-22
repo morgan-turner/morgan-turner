@@ -3,7 +3,7 @@
 I'm a data analyst with a passion for healthcare and policy data. I've worked in clinical healthcare for the last several years and am excited to bring the insights I gained there to the world of data analytics.
 
 - 🔭 I’m currently working on expanding my project portfolio to land my first full time data job! 
-- 🌱 I’m currently learning Python packages like numpy and pandas
+- 🌱 I’m currently learning web scraping in R
 - 👯 I’m looking to collaborate on interesting data projects
 - 🎨 I do data viz too! Check out my [Tableau portfolio](https://public.tableau.com/app/profile/morgan5895)
 - 📫 Want to connect? Give me a shout on [LinkedIn](https://www.linkedin.com/in/morganturner1/)

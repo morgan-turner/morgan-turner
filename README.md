@@ -4,7 +4,7 @@ I'm a data analyst with a passion for population health and clinical health data
 
 - 🔭 I’m currently working on expanding my project portfolio to land my first full time data job! 
 - 🌱 I’m currently learning web scraping in R
-- 👯 I’m looking to collaborate on interesting data projects
+- 👯 I’m looking to collaborate on open source projects for the public good
 - 🎨 I do data viz too! Check out my [Tableau portfolio](https://public.tableau.com/app/profile/morgan5895)
 - 📫 Want to connect? Give me a shout on [LinkedIn](https://www.linkedin.com/in/morganturner1/)
 - 🚀 Fun fact: I love space! Ask me about black holes 🤓 

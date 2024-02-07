@@ -3,7 +3,7 @@
 I'm a data analyst with a passion for population and clinical health data. I've worked in clinical healthcare for the last several years and am excited to bring the insights I gained there to the world of data analytics.
 
 - 🔭 I’m currently working on population health analytics
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning dbt & Python 🐍
 - 👯 I’m looking to collaborate on open source projects for the public good
 - 🎨 I do data viz too! Check out my [Tableau portfolio](https://public.tableau.com/app/profile/morgan5895)
 - 📫 Want to connect? Give me a shout on [LinkedIn](https://www.linkedin.com/in/morganturner1/)

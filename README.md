@@ -1,6 +1,6 @@
 ### Hi there, I'm Morgan 👋
 
-I'm a data analyst with a passion for population and clinical health data. I've worked in clinical healthcare for the last several years and am excited to bring the insights I gained there to the world of data analytics.
+I'm a data analyst with a passion for using data to make the world a better place. I have an eye for detail and love to dig into a data rabbit hole when there's something unusual to check out. I'm interested in a broad range of data applications, including those in healthcare, climate/sustainability/energy, the sociopolitical landscape, economics, and physics/astronomy/space exploration.
 
 - 🔭 I’m currently working on population health analytics
 - 🌱 I’m currently learning dbt & Python 🐍
